@@ -2,4 +2,7 @@
 
 ## MongoDb - Application Agular/CLI - Express- Node.js.
 
-Client 4200 and Server 3030
+Client localhost:4200
+  - 
+Server localhost:3030
+  - feathers
