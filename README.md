@@ -7,6 +7,7 @@
    * Bootstrap
    * Jquery
    * @types/Jquery
+   * 
 ### Server localhost:3030
 
-  * feathers
+  * Feathers
